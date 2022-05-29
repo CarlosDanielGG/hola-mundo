@@ -1,5 +1,5 @@
-# hola-mundo
-Primer repositorio de prueba
+# HOLA MUNDO
+Primer repositorio.
 
 Autor: Carlos Daniel G. G.
 Fecha: 29/05/2022
